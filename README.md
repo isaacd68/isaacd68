@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @isaacd68
+- 👋 Hi, I’m Isaac
 - 👀 I’m interested in Quantum Computing and AI
 - 🌱 I’m currently learning QC
 - 📫 How to reach me idowling@asu.edu
